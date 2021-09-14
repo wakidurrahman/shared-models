@@ -1,0 +1,20 @@
+{
+  "name": "shared-models",
+  "version": "1.0.0",
+  "description": "Share Model/Schema.IT refer that models folder in all  projects instead of keeping models folder in each and every project by use GIT Submodules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakidurrahman/shared-models.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakidurrahman/shared-models/issues"
+  },
+  "homepage": "https://github.com/wakidurrahman/shared-models#readme"
+}
