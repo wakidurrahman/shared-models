@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wakidurrahman/shared-models/issues"
   },
-  "homepage": "https://github.com/wakidurrahman/shared-models#readme"
+  "homepage": "https://github.com/wakidurrahman/shared-models#readme",
+  "dependencies": {
+    "mongoose": "^6.0.5"
+  }
 }
